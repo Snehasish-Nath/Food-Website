@@ -219,6 +219,7 @@ nav .col2 ul li {
 /* --------------- FOR PHONE -------------- */
 
 @media screen and (max-width:600px) {
+
     #home {
         height: 100vh;
         width: 100%;
@@ -226,6 +227,9 @@ nav .col2 ul li {
         background-position: center;
         background-size: cover;
 
+    }
+    .nav-bar{
+        height: 150px;
     }
     nav{
         display: flex;
@@ -293,7 +297,7 @@ nav .col2 ul li {
     }
     .home-main {
         /* background-color: lightblue; */
-        margin-top: 30%;
+        margin-top: 5%;
         margin-left: 15%;
         width: 60%;
     }
