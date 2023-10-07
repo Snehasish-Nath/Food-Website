@@ -151,6 +151,47 @@ nav .col2 ul li {
     /* font-family: 'Righteous', cursive; */
 }
 
+/* ---------- main content ---------------- */
+
+#main-content{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/Images/Background\ 4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* --------- FOR TAB SCREEN ----------- */
 
 @media screen and (max-width:1049px) {
